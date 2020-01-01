@@ -1,0 +1,3 @@
+services:
+  remaining_time.event_status:
+    class: Drupal\remaining_time\Service\RemainingTimeService
