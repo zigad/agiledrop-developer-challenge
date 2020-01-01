@@ -1,2 +1,2 @@
-# agiledrop-developer-challenge
+# Agiledrop Developer Challenge
 Completed developer challenge for Agiledrop
