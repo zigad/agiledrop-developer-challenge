@@ -66,6 +66,6 @@ class RemainingTimeBlock extends BlockBase {
    * {@inheritdoc}
    */
   public function blockSubmit($form, FormStateInterface $form_state) {
-    $this->configuration['my_block_settings'] = $form_state->getValue('my_block_settings');
+    $this->configuration['remaining_time_settings'] = $form_state->getValue('remaining_time_settings');
   }
 }
